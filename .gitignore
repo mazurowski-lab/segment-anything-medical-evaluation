@@ -1,0 +1,11 @@
+*.pth
+*.py.swp
+run_record.py
+scores*/*
+.ipynb*/*
+log.txt
+results/*
+segment-anything/*
+segment_anything/*
+ritm_interactive_segmentation/*
+weights/*
