@@ -51,6 +51,7 @@ To evaluate your own dataset, you need to format the dataset as:
         def.png
         ...
 ```
+where images and masks should have the same name.
 
 ## Citation
 If you find our work to be useful for your research, please cite our paper:
