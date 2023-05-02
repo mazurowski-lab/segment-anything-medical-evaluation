@@ -2,7 +2,7 @@
 
 [![arXiv Paper](https://img.shields.io/badge/arXiv-2304.10517-orange.svg?style=flat)](https://arxiv.org/abs/2304.10517)
 
-#### by [Maciej Mazurowski](https://sites.duke.edu/mazurowski/), Haoyu Dong, Hanxue Gu, Jichen Yang, [Nicholas Konz](https://nickk124.github.io/) and Yixing Zhang.
+#### By [Maciej Mazurowski](https://sites.duke.edu/mazurowski/), Haoyu Dong, Hanxue Gu, Jichen Yang, [Nicholas Konz](https://nickk124.github.io/) and Yixing Zhang.
 
 This is the official repository for our paper: [Segment Anything Model for Medical Image Analysis: an Experimental Study](https://arxiv.org/abs/2304.10517), where we evaluated Meta AI's Segment Anything Model (SAM) on many medical imaging datasets.
 
