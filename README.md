@@ -1,5 +1,7 @@
 # Segment Anything Model for Medical Image Analysis: an Experimental Study
 
+[![arXiv Paper](https://img.shields.io/badge/arXiv-2304.10517-orange.svg?style=flat)](https://arxiv.org/abs/2304.10517)
+
 This is the official repository for our paper: [Segment Anything Model for Medical Image Analysis: an Experimental Study](https://arxiv.org/abs/2304.10517), where we evaluated Meta AI's Segment Anything Model (SAM) on many medical imaging datasets.
 
 ## Installation
