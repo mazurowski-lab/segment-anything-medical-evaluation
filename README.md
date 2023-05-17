@@ -27,11 +27,16 @@ First, download SAM's model checkpoint
 wget https://dl.fbaipublicfiles.com/segment_anything/sam_vit_h_4b8939.pth
 ```
 
-Run the code with:
+If you want to run SAM (and competing methods) with iterative prompts, run the code with:
 ```
-python3 prompt_gen_and_exec_v1.py --num-prompt XXX --model sam/ritm 
+python3 prompt_gen_and_exec_v1.py --num-prompt XXX --model sam/ritm
 ```
 where it will ask you to enter the dataset you wish to evaluate on.
+
+If you want to run SAM with the 5 mode proposed in the paper, run the code with:
+```
+python3 prompt_gen_and_exec_v2_allmode.py 
+```
 
 Optionally, to run RITM, you need to download its weights via:
 ```
