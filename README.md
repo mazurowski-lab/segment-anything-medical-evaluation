@@ -33,15 +33,22 @@ python3 prompt_gen_and_exec_v1.py --num-prompt XXX --model sam/ritm
 ```
 where it will ask you to enter the dataset you wish to evaluate on.
 
-If you want to run SAM with the 5 mode proposed in the paper, run the code with:
-```
-python3 prompt_gen_and_exec_v2_allmode.py 
-```
-
 Optionally, to run RITM, you need to download its weights via:
 ```
 wget https://github.com/saic-vul/ritm_interactive_segmentation/releases/download/v1.0/coco_lvis_h32_itermask.pth
 ```
+
+
+If you want to run SAM with the 5 mode proposed in the paper, run the code with:
+```
+python3 prompt_gen_and_exec_v2_allmode.py 
+```
+The 5 mode strategy includes (also shown in Figure 1, [![arXiv Paper](https://img.shields.io/badge/arXiv-2304.10517-orange.svg?style=flat)](https://arxiv.org/abs/2304.10517)):
+- 1 point at the center of the **largest** component
+- 1 point at the center of **each** component
+- 1 box sharply around the **largest** component
+- 1 box sharply around **each** component
+- 1 box covers **all** object
 
 ## Obtaining datasets from our paper
 
