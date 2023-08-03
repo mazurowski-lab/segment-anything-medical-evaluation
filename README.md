@@ -4,7 +4,7 @@
 
 #### By [Maciej Mazurowski](https://sites.duke.edu/mazurowski/), Haoyu Dong, Hanxue Gu, Jichen Yang, [Nicholas Konz](https://nickk124.github.io/) and Yixin Zhang.
 
-This is the official repository for our paper: [Segment Anything Model for Medical Image Analysis: an Experimental Study](https://arxiv.org/abs/2304.10517), where we evaluated Meta AI's Segment Anything Model (SAM) on many medical imaging datasets.
+This is the official repository for our paper: [Segment Anything Model for Medical Image Analysis: an Experimental Study](https://arxiv.org/abs/2304.10517), recently accepted to Medical Image Analysis, where we evaluated Meta AI's Segment Anything Model (SAM) on many medical imaging datasets. 
 
 ## Installation
 
