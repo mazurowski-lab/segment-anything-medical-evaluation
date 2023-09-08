@@ -45,9 +45,9 @@ python3 prompt_gen_and_exec_v2_allmode.py
 ```
 The 5 mode strategy includes (also shown in Figure 1, [![arXiv Paper](https://img.shields.io/badge/arXiv-2304.10517-orange.svg?style=flat)](https://arxiv.org/abs/2304.10517)):
 - 1 point at the center of the **largest** component
-- 1 point at the center of **each** component
+- 1 point at the center of **each** component (put at most 3 points)
 - 1 box sharply around the **largest** component
-- 1 box sharply around **each** component
+- 1 box sharply around **each** component (put at most 3 boxes)
 - 1 box covers **all** object
 
 ## Obtaining datasets from our paper
