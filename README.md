@@ -72,10 +72,13 @@ where images and masks should have the same name.
 ## Citation
 If you find our work to be useful for your research, please cite our paper:
 ```
-@inproceedings{Mazurowski2023SegmentAM,
-  title={Segment Anything Model for Medical Image Analysis: an Experimental Study},
-  author={Maciej A. Mazurowski and Haoyu Dong and Han Gu and Jichen Yang and N. Konz and Yixin Zhang},
-  hournal={arXiv:2304.10517},
-  year={2023}
+@article{mazurowski2023segment,
+  title={Segment anything model for medical image analysis: an experimental study},
+  author={Mazurowski, Maciej A and Dong, Haoyu and Gu, Hanxue and Yang, Jichen and Konz, Nicholas and Zhang, Yixin},
+  journal={Medical Image Analysis},
+  volume={89},
+  pages={102918},
+  year={2023},
+  publisher={Elsevier}
 }
 ```
