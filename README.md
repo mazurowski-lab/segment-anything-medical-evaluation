@@ -69,6 +69,9 @@ To evaluate your own dataset, you need to format the dataset as:
 ```
 where images and masks should have the same name.
 
+## News
+- 1 We have released our experimental results with detailed numerical numbers that were used to make figures in our paper; these tables are under the subfolder /experimental_results_tables.
+
 ## Citation
 If you find our work to be useful for your research, please cite our paper:
 ```
